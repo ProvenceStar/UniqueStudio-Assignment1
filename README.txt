@@ -1,1 +1,1 @@
-本文件中StyleTransfer-Pytorch为主程序，styles文件夹中存放用到的图片以及输出的图片，pre文件中的style_transfer_pytorch为风格迁移所要用到的主要函数，我主要完成了计算损失函数和计算gram矩阵的函数，以及一些预处理，请查收。
+本文件中StyleTransfer-Pytorch(作业)为主程序，styles文件夹中存放用到的图片以及输出的图片，pre文件中的style_transfer_pytorch为风格迁移所要用到的主要函数。
